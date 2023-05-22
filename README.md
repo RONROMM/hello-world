@@ -4,7 +4,7 @@ from pydub import AudioSegment
 from pydub.playback import play
 import pygame
 import random
-import os
+import os 
 
 FPS=60
 WHITE=(255,250,250)
